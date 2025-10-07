@@ -15,7 +15,7 @@ Crafted by [BIZ FACTORY](https://t.me/bizft)
 ---
 
 ### Usage
-GET https://your-app.vercel.app/api/proxy?url=https://example.com
+GET https://cors-proxy-bypass-bizft.vercel.app/api/proxy?url=https://example.com
 
 Optional:
 - Forward cookies: `&allowCookies=1`
