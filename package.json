@@ -1,0 +1,13 @@
+{
+  "name": "cors-proxy-bypass-bizft",
+  "version": "1.0.0",
+  "description": "Advanced CORS proxy for Vercel",
+  "main": "api/proxy.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
